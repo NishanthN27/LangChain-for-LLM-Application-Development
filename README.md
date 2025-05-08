@@ -1,6 +1,6 @@
 # LangChain for LLM Application Development
 
-Programs I executed while I completed **DeepLearning.AI's LangChain for LLM Application Development** course that covered:
+Programs I executed while I completed **DeepLearning.AI's LangChain for LLM Application Development** course by Harrison Chase and Andrew Ng that covered:
 
 - **Models, Prompts and Parsers**  
     calling LLMs, providing prompts and parsing the response
